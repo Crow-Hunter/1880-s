@@ -1,0 +1,8 @@
+FACTION.name = "The 51st Illinois Infantry Regiment"
+FACTION.desc = "The Local Union Forces."
+FACTION.color = Color(0, 51, 153)
+FACTION.isDefault = false
+FACTION.isPublic = false
+FACTION.salary = 15
+}
+FACTION_LAW = FACTION.index
